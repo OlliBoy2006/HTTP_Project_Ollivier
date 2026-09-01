@@ -1,0 +1,22 @@
+============================================================
+UnoReverse login attempt
+Time              : 2026-09-01 22:04:17
+Remote IP         : ::1
+Remote port       : 53838
+Local listen port : 22
+Protocol          : TCP
+Bytes received    : 65
+Bytes sent        : 1048576
+Response type     : bounded test data
+
+Received data:
+SSH-2.0-UnoReverseTestClient
+
+username=admin; password=admin123
+
+
+
+Geo-location data from ip-api.com:
+{"status":"fail","message":"reserved range","query":"::1"}
+============================================================
+
